@@ -25,14 +25,11 @@
     "url": "https://github.com/NickNaso/session-check/issues"
   },
   "homepage": "http://www.nacios.it/",
-  "dependencies": {
-    "underscore": "^1.8.3"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "cookie-parser": "^1.4.1",
     "express": "^4.13.4",
-    "express-session": "^1.13.0",
     "jasmine": "^2.4.1",
+    "response-powered-by": "^1.0.3",
     "supertest": "^1.2.0"
   },
   "files": [
