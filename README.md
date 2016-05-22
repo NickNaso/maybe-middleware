@@ -40,7 +40,7 @@ var POWERED_BY = "@NIckNaso";
 
 // predicate as boolean
 app.use(maybeMiddleware(responsePoweredBy(POWERED_BY), true));
-
+//  OR
 // predicate as function
 app.use(maybeMiddleware(
   responsePoweredBy(POWERED_BY),
