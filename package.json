@@ -25,6 +25,9 @@
     "url": "https://github.com/NickNaso/session-check/issues"
   },
   "homepage": "http://www.nacios.it/",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
   "devDependencies": {
     "cookie-parser": "^1.4.1",
     "express": "^4.13.4",
