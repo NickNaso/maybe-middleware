@@ -1,13 +1,14 @@
 {
-  "name": "session-check",
-  "description": "Express middleware to check if session is available",
-  "version": "1.0.1",
+  "name": "maybe-middleware",
+  "description": "Wrapper for dinamically enable or disable express middleware",
+  "version": "1.0.0",
   "author": "Nicola Del Gobbo <nicoladelgobbo@gmail.com>",
   "keywords": [
     "express",
-    "session",
+    "wrapper",
     "connect",
-    "check",
+    "enable",
+    "disable",
     "middleware"
   ],
   "license": "Apache-2.0",
@@ -19,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NickNaso/session-check.git"
+    "url": "https://github.com/NickNaso/maybe-middleware.git"
   },
   "bugs": {
-    "url": "https://github.com/NickNaso/session-check/issues"
+    "url": "https://github.com/NickNaso/maybe-middleware/issues"
   },
   "homepage": "http://www.nacios.it/",
   "dependencies": {},
