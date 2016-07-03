@@ -1,7 +1,7 @@
 # maybe-middleware
-### Wrapper for dinamically enable or disable express middleware
+### Wrapper for enable or disable express or connect middleware based on condition.
 
-This wrapper allow you to dinamically enable or disable an express middleware.
+This wrapper allow you to enable or disable an express or connect middleware.
 In some circumstances you would use a middleware only if some conditions are
 met.
 
