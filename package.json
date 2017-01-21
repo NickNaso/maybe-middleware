@@ -1,7 +1,7 @@
 {
   "name": "maybe-middleware",
   "description": "Wrapper for enable or disable express or connect middleware based on condition.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Nicola Del Gobbo <nicoladelgobbo@gmail.com>",
   "keywords": [
     "express",
